@@ -1,7 +1,7 @@
 
 <div>
   <a href="https://github.com/victorSsx">
-    <img height="180em" src="https://github-redme-stats.vercel.app/api?username=victorSsx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-redme-stats.vercel.app/api?username=victorSsx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorSsx&layout=compact&langs_count=16&theme=highcontrast&private=true"/>
 </div>
 
